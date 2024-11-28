@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "Produkt 1",
+    "category": "Hose",
+    "size": "S",
+    "color": "Red",
+    "price": 11.5,
+    "stock": 4,
+    "description": "Bequem und stilvoll, ideal f\u00fcr jede Gelegenheit.",
+    "images": [
+      "https://example.com/images/product-1-front.jpg",
+      "https://example.com/images/product-1-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Testkommentar f\u00fcr Produkt 1.",
+        "date": "2024-11-2T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 2",
+    "category": "Jacke",
+    "size": "M",
+    "color": "Black",
+    "price": 13.0,
+    "stock": 7,
+    "description": "Langlebig und modern, ein Must-Have f\u00fcr jede Garderobe.",
+    "images": [
+      "https://example.com/images/product-2-front.jpg",
+      "https://example.com/images/product-2-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Testkommentar f\u00fcr Produkt 2.",
+        "date": "2024-11-3T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 3",
+    "category": "Schuhe",
+    "size": "L",
+    "color": "White",
+    "price": 14.5,
+    "stock": 10,
+    "description": "Perfekt f\u00fcr Freizeit und Arbeit, mit klassischem Design.",
+    "images": [
+      "https://example.com/images/product-3-front.jpg",
+      "https://example.com/images/product-3-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Testkommentar f\u00fcr Produkt 3.",
+        "date": "2024-11-4T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 4",
+    "category": "Pullover",
+    "size": "XL",
+    "color": "Green",
+    "price": 16.0,
+    "stock": 13,
+    "description": "Atmungsaktiv und leicht, f\u00fcr den maximalen Komfort.",
+    "images": [
+      "https://example.com/images/product-4-front.jpg",
+      "https://example.com/images/product-4-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Testkommentar f\u00fcr Produkt 4.",
+        "date": "2024-11-5T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 5",
+    "category": "Kleid",
+    "size": "XXL",
+    "color": "Yellow",
+    "price": 17.5,
+    "stock": 16,
+    "description": "Ein elegantes Kleidungsst\u00fcck mit hervorragender Passform.",
+    "images": [
+      "https://example.com/images/product-5-front.jpg",
+      "https://example.com/images/product-5-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Testkommentar f\u00fcr Produkt 5.",
+        "date": "2024-11-6T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 6",
+    "category": "Rock",
+    "size": "XS",
+    "color": "Pink",
+    "price": 19.0,
+    "stock": 19,
+    "description": "F\u00fcr Outdoor-Aktivit\u00e4ten entwickelt, mit robustem Design.",
+    "images": [
+      "https://example.com/images/product-6-front.jpg",
+      "https://example.com/images/product-6-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Testkommentar f\u00fcr Produkt 6.",
+        "date": "2024-11-7T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 7",
+    "category": "Accessoire",
+    "size": "S",
+    "color": "Gray",
+    "price": 20.5,
+    "stock": 22,
+    "description": "Modischer Look, ideal f\u00fcr besondere Anl\u00e4sse.",
+    "images": [
+      "https://example.com/images/product-7-front.jpg",
+      "https://example.com/images/product-7-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Testkommentar f\u00fcr Produkt 7.",
+        "date": "2024-11-8T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 8",
+    "category": "T-Shirt",
+    "size": "M",
+    "color": "Blue",
+    "price": 22.0,
+    "stock": 25,
+    "description": "Hochwertiges Material, perfekt f\u00fcr den Alltag.",
+    "images": [
+      "https://example.com/images/product-8-front.jpg",
+      "https://example.com/images/product-8-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Testkommentar f\u00fcr Produkt 8.",
+        "date": "2024-11-9T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 9",
+    "category": "Hose",
+    "size": "L",
+    "color": "Red",
+    "price": 23.5,
+    "stock": 28,
+    "description": "Bequem und stilvoll, ideal f\u00fcr jede Gelegenheit.",
+    "images": [
+      "https://example.com/images/product-9-front.jpg",
+      "https://example.com/images/product-9-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Testkommentar f\u00fcr Produkt 9.",
+        "date": "2024-11-10T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 10",
+    "category": "Jacke",
+    "size": "XL",
+    "color": "Black",
+    "price": 25.0,
+    "stock": 31,
+    "description": "Langlebig und modern, ein Must-Have f\u00fcr jede Garderobe.",
+    "images": [
+      "https://example.com/images/product-10-front.jpg",
+      "https://example.com/images/product-10-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Testkommentar f\u00fcr Produkt 10.",
+        "date": "2024-11-11T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 11",
+    "category": "Schuhe",
+    "size": "XXL",
+    "color": "White",
+    "price": 26.5,
+    "stock": 34,
+    "description": "Perfekt f\u00fcr Freizeit und Arbeit, mit klassischem Design.",
+    "images": [
+      "https://example.com/images/product-11-front.jpg",
+      "https://example.com/images/product-11-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Testkommentar f\u00fcr Produkt 11.",
+        "date": "2024-11-12T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 12",
+    "category": "Pullover",
+    "size": "XS",
+    "color": "Green",
+    "price": 28.0,
+    "stock": 37,
+    "description": "Atmungsaktiv und leicht, f\u00fcr den maximalen Komfort.",
+    "images": [
+      "https://example.com/images/product-12-front.jpg",
+      "https://example.com/images/product-12-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Testkommentar f\u00fcr Produkt 12.",
+        "date": "2024-11-13T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 13",
+    "category": "Kleid",
+    "size": "S",
+    "color": "Yellow",
+    "price": 29.5,
+    "stock": 40,
+    "description": "Ein elegantes Kleidungsst\u00fcck mit hervorragender Passform.",
+    "images": [
+      "https://example.com/images/product-13-front.jpg",
+      "https://example.com/images/product-13-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Testkommentar f\u00fcr Produkt 13.",
+        "date": "2024-11-14T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 14",
+    "category": "Rock",
+    "size": "M",
+    "color": "Pink",
+    "price": 31.0,
+    "stock": 43,
+    "description": "F\u00fcr Outdoor-Aktivit\u00e4ten entwickelt, mit robustem Design.",
+    "images": [
+      "https://example.com/images/product-14-front.jpg",
+      "https://example.com/images/product-14-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Testkommentar f\u00fcr Produkt 14.",
+        "date": "2024-11-15T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 15",
+    "category": "Accessoire",
+    "size": "L",
+    "color": "Gray",
+    "price": 32.5,
+    "stock": 46,
+    "description": "Modischer Look, ideal f\u00fcr besondere Anl\u00e4sse.",
+    "images": [
+      "https://example.com/images/product-15-front.jpg",
+      "https://example.com/images/product-15-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Testkommentar f\u00fcr Produkt 15.",
+        "date": "2024-11-16T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 16",
+    "category": "T-Shirt",
+    "size": "XL",
+    "color": "Blue",
+    "price": 34.0,
+    "stock": 49,
+    "description": "Hochwertiges Material, perfekt f\u00fcr den Alltag.",
+    "images": [
+      "https://example.com/images/product-16-front.jpg",
+      "https://example.com/images/product-16-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Testkommentar f\u00fcr Produkt 16.",
+        "date": "2024-11-17T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 17",
+    "category": "Hose",
+    "size": "XXL",
+    "color": "Red",
+    "price": 35.5,
+    "stock": 52,
+    "description": "Bequem und stilvoll, ideal f\u00fcr jede Gelegenheit.",
+    "images": [
+      "https://example.com/images/product-17-front.jpg",
+      "https://example.com/images/product-17-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Testkommentar f\u00fcr Produkt 17.",
+        "date": "2024-11-18T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 18",
+    "category": "Jacke",
+    "size": "XS",
+    "color": "Black",
+    "price": 37.0,
+    "stock": 55,
+    "description": "Langlebig und modern, ein Must-Have f\u00fcr jede Garderobe.",
+    "images": [
+      "https://example.com/images/product-18-front.jpg",
+      "https://example.com/images/product-18-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Testkommentar f\u00fcr Produkt 18.",
+        "date": "2024-11-19T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 19",
+    "category": "Schuhe",
+    "size": "S",
+    "color": "White",
+    "price": 38.5,
+    "stock": 58,
+    "description": "Perfekt f\u00fcr Freizeit und Arbeit, mit klassischem Design.",
+    "images": [
+      "https://example.com/images/product-19-front.jpg",
+      "https://example.com/images/product-19-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Testkommentar f\u00fcr Produkt 19.",
+        "date": "2024-11-20T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 20",
+    "category": "Pullover",
+    "size": "M",
+    "color": "Green",
+    "price": 40.0,
+    "stock": 61,
+    "description": "Atmungsaktiv und leicht, f\u00fcr den maximalen Komfort.",
+    "images": [
+      "https://example.com/images/product-20-front.jpg",
+      "https://example.com/images/product-20-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Testkommentar f\u00fcr Produkt 20.",
+        "date": "2024-11-21T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 21",
+    "category": "Kleid",
+    "size": "L",
+    "color": "Yellow",
+    "price": 41.5,
+    "stock": 64,
+    "description": "Ein elegantes Kleidungsst\u00fcck mit hervorragender Passform.",
+    "images": [
+      "https://example.com/images/product-21-front.jpg",
+      "https://example.com/images/product-21-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Testkommentar f\u00fcr Produkt 21.",
+        "date": "2024-11-22T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 22",
+    "category": "Rock",
+    "size": "XL",
+    "color": "Pink",
+    "price": 43.0,
+    "stock": 67,
+    "description": "F\u00fcr Outdoor-Aktivit\u00e4ten entwickelt, mit robustem Design.",
+    "images": [
+      "https://example.com/images/product-22-front.jpg",
+      "https://example.com/images/product-22-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Testkommentar f\u00fcr Produkt 22.",
+        "date": "2024-11-23T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 23",
+    "category": "Accessoire",
+    "size": "XXL",
+    "color": "Gray",
+    "price": 44.5,
+    "stock": 70,
+    "description": "Modischer Look, ideal f\u00fcr besondere Anl\u00e4sse.",
+    "images": [
+      "https://example.com/images/product-23-front.jpg",
+      "https://example.com/images/product-23-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Testkommentar f\u00fcr Produkt 23.",
+        "date": "2024-11-24T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 24",
+    "category": "T-Shirt",
+    "size": "XS",
+    "color": "Blue",
+    "price": 46.0,
+    "stock": 73,
+    "description": "Hochwertiges Material, perfekt f\u00fcr den Alltag.",
+    "images": [
+      "https://example.com/images/product-24-front.jpg",
+      "https://example.com/images/product-24-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Testkommentar f\u00fcr Produkt 24.",
+        "date": "2024-11-25T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 25",
+    "category": "Hose",
+    "size": "S",
+    "color": "Red",
+    "price": 47.5,
+    "stock": 76,
+    "description": "Bequem und stilvoll, ideal f\u00fcr jede Gelegenheit.",
+    "images": [
+      "https://example.com/images/product-25-front.jpg",
+      "https://example.com/images/product-25-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Testkommentar f\u00fcr Produkt 25.",
+        "date": "2024-11-26T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 26",
+    "category": "Jacke",
+    "size": "M",
+    "color": "Black",
+    "price": 49.0,
+    "stock": 79,
+    "description": "Langlebig und modern, ein Must-Have f\u00fcr jede Garderobe.",
+    "images": [
+      "https://example.com/images/product-26-front.jpg",
+      "https://example.com/images/product-26-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Testkommentar f\u00fcr Produkt 26.",
+        "date": "2024-11-27T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 27",
+    "category": "Schuhe",
+    "size": "L",
+    "color": "White",
+    "price": 50.5,
+    "stock": 82,
+    "description": "Perfekt f\u00fcr Freizeit und Arbeit, mit klassischem Design.",
+    "images": [
+      "https://example.com/images/product-27-front.jpg",
+      "https://example.com/images/product-27-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Testkommentar f\u00fcr Produkt 27.",
+        "date": "2024-11-28T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 28",
+    "category": "Pullover",
+    "size": "XL",
+    "color": "Green",
+    "price": 52.0,
+    "stock": 85,
+    "description": "Atmungsaktiv und leicht, f\u00fcr den maximalen Komfort.",
+    "images": [
+      "https://example.com/images/product-28-front.jpg",
+      "https://example.com/images/product-28-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Testkommentar f\u00fcr Produkt 28.",
+        "date": "2024-11-1T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 29",
+    "category": "Kleid",
+    "size": "XXL",
+    "color": "Yellow",
+    "price": 53.5,
+    "stock": 88,
+    "description": "Ein elegantes Kleidungsst\u00fcck mit hervorragender Passform.",
+    "images": [
+      "https://example.com/images/product-29-front.jpg",
+      "https://example.com/images/product-29-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Testkommentar f\u00fcr Produkt 29.",
+        "date": "2024-11-2T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 30",
+    "category": "Rock",
+    "size": "XS",
+    "color": "Pink",
+    "price": 55.0,
+    "stock": 91,
+    "description": "F\u00fcr Outdoor-Aktivit\u00e4ten entwickelt, mit robustem Design.",
+    "images": [
+      "https://example.com/images/product-30-front.jpg",
+      "https://example.com/images/product-30-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Testkommentar f\u00fcr Produkt 30.",
+        "date": "2024-11-3T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 31",
+    "category": "Accessoire",
+    "size": "S",
+    "color": "Gray",
+    "price": 56.5,
+    "stock": 94,
+    "description": "Modischer Look, ideal f\u00fcr besondere Anl\u00e4sse.",
+    "images": [
+      "https://example.com/images/product-31-front.jpg",
+      "https://example.com/images/product-31-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Testkommentar f\u00fcr Produkt 31.",
+        "date": "2024-11-4T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 32",
+    "category": "T-Shirt",
+    "size": "M",
+    "color": "Blue",
+    "price": 58.0,
+    "stock": 97,
+    "description": "Hochwertiges Material, perfekt f\u00fcr den Alltag.",
+    "images": [
+      "https://example.com/images/product-32-front.jpg",
+      "https://example.com/images/product-32-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Testkommentar f\u00fcr Produkt 32.",
+        "date": "2024-11-5T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 33",
+    "category": "Hose",
+    "size": "L",
+    "color": "Red",
+    "price": 59.5,
+    "stock": 100,
+    "description": "Bequem und stilvoll, ideal f\u00fcr jede Gelegenheit.",
+    "images": [
+      "https://example.com/images/product-33-front.jpg",
+      "https://example.com/images/product-33-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Testkommentar f\u00fcr Produkt 33.",
+        "date": "2024-11-6T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 34",
+    "category": "Jacke",
+    "size": "XL",
+    "color": "Black",
+    "price": 61.0,
+    "stock": 103,
+    "description": "Langlebig und modern, ein Must-Have f\u00fcr jede Garderobe.",
+    "images": [
+      "https://example.com/images/product-34-front.jpg",
+      "https://example.com/images/product-34-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Testkommentar f\u00fcr Produkt 34.",
+        "date": "2024-11-7T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 35",
+    "category": "Schuhe",
+    "size": "XXL",
+    "color": "White",
+    "price": 62.5,
+    "stock": 106,
+    "description": "Perfekt f\u00fcr Freizeit und Arbeit, mit klassischem Design.",
+    "images": [
+      "https://example.com/images/product-35-front.jpg",
+      "https://example.com/images/product-35-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Testkommentar f\u00fcr Produkt 35.",
+        "date": "2024-11-8T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 36",
+    "category": "Pullover",
+    "size": "XS",
+    "color": "Green",
+    "price": 64.0,
+    "stock": 109,
+    "description": "Atmungsaktiv und leicht, f\u00fcr den maximalen Komfort.",
+    "images": [
+      "https://example.com/images/product-36-front.jpg",
+      "https://example.com/images/product-36-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Testkommentar f\u00fcr Produkt 36.",
+        "date": "2024-11-9T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 37",
+    "category": "Kleid",
+    "size": "S",
+    "color": "Yellow",
+    "price": 65.5,
+    "stock": 112,
+    "description": "Ein elegantes Kleidungsst\u00fcck mit hervorragender Passform.",
+    "images": [
+      "https://example.com/images/product-37-front.jpg",
+      "https://example.com/images/product-37-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Testkommentar f\u00fcr Produkt 37.",
+        "date": "2024-11-10T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 38",
+    "category": "Rock",
+    "size": "M",
+    "color": "Pink",
+    "price": 67.0,
+    "stock": 115,
+    "description": "F\u00fcr Outdoor-Aktivit\u00e4ten entwickelt, mit robustem Design.",
+    "images": [
+      "https://example.com/images/product-38-front.jpg",
+      "https://example.com/images/product-38-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Testkommentar f\u00fcr Produkt 38.",
+        "date": "2024-11-11T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 39",
+    "category": "Accessoire",
+    "size": "L",
+    "color": "Gray",
+    "price": 68.5,
+    "stock": 118,
+    "description": "Modischer Look, ideal f\u00fcr besondere Anl\u00e4sse.",
+    "images": [
+      "https://example.com/images/product-39-front.jpg",
+      "https://example.com/images/product-39-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Testkommentar f\u00fcr Produkt 39.",
+        "date": "2024-11-12T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 40",
+    "category": "T-Shirt",
+    "size": "XL",
+    "color": "Blue",
+    "price": 70.0,
+    "stock": 121,
+    "description": "Hochwertiges Material, perfekt f\u00fcr den Alltag.",
+    "images": [
+      "https://example.com/images/product-40-front.jpg",
+      "https://example.com/images/product-40-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Testkommentar f\u00fcr Produkt 40.",
+        "date": "2024-11-13T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 41",
+    "category": "Hose",
+    "size": "XXL",
+    "color": "Red",
+    "price": 71.5,
+    "stock": 124,
+    "description": "Bequem und stilvoll, ideal f\u00fcr jede Gelegenheit.",
+    "images": [
+      "https://example.com/images/product-41-front.jpg",
+      "https://example.com/images/product-41-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Testkommentar f\u00fcr Produkt 41.",
+        "date": "2024-11-14T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 42",
+    "category": "Jacke",
+    "size": "XS",
+    "color": "Black",
+    "price": 73.0,
+    "stock": 127,
+    "description": "Langlebig und modern, ein Must-Have f\u00fcr jede Garderobe.",
+    "images": [
+      "https://example.com/images/product-42-front.jpg",
+      "https://example.com/images/product-42-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Testkommentar f\u00fcr Produkt 42.",
+        "date": "2024-11-15T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 43",
+    "category": "Schuhe",
+    "size": "S",
+    "color": "White",
+    "price": 74.5,
+    "stock": 130,
+    "description": "Perfekt f\u00fcr Freizeit und Arbeit, mit klassischem Design.",
+    "images": [
+      "https://example.com/images/product-43-front.jpg",
+      "https://example.com/images/product-43-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Testkommentar f\u00fcr Produkt 43.",
+        "date": "2024-11-16T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 44",
+    "category": "Pullover",
+    "size": "M",
+    "color": "Green",
+    "price": 76.0,
+    "stock": 133,
+    "description": "Atmungsaktiv und leicht, f\u00fcr den maximalen Komfort.",
+    "images": [
+      "https://example.com/images/product-44-front.jpg",
+      "https://example.com/images/product-44-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Testkommentar f\u00fcr Produkt 44.",
+        "date": "2024-11-17T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 45",
+    "category": "Kleid",
+    "size": "L",
+    "color": "Yellow",
+    "price": 77.5,
+    "stock": 136,
+    "description": "Ein elegantes Kleidungsst\u00fcck mit hervorragender Passform.",
+    "images": [
+      "https://example.com/images/product-45-front.jpg",
+      "https://example.com/images/product-45-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Testkommentar f\u00fcr Produkt 45.",
+        "date": "2024-11-18T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 46",
+    "category": "Rock",
+    "size": "XL",
+    "color": "Pink",
+    "price": 79.0,
+    "stock": 139,
+    "description": "F\u00fcr Outdoor-Aktivit\u00e4ten entwickelt, mit robustem Design.",
+    "images": [
+      "https://example.com/images/product-46-front.jpg",
+      "https://example.com/images/product-46-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Testkommentar f\u00fcr Produkt 46.",
+        "date": "2024-11-19T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 47",
+    "category": "Accessoire",
+    "size": "XXL",
+    "color": "Gray",
+    "price": 80.5,
+    "stock": 142,
+    "description": "Modischer Look, ideal f\u00fcr besondere Anl\u00e4sse.",
+    "images": [
+      "https://example.com/images/product-47-front.jpg",
+      "https://example.com/images/product-47-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Testkommentar f\u00fcr Produkt 47.",
+        "date": "2024-11-20T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 48",
+    "category": "T-Shirt",
+    "size": "XS",
+    "color": "Blue",
+    "price": 82.0,
+    "stock": 145,
+    "description": "Hochwertiges Material, perfekt f\u00fcr den Alltag.",
+    "images": [
+      "https://example.com/images/product-48-front.jpg",
+      "https://example.com/images/product-48-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Testkommentar f\u00fcr Produkt 48.",
+        "date": "2024-11-21T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 49",
+    "category": "Hose",
+    "size": "S",
+    "color": "Red",
+    "price": 83.5,
+    "stock": 148,
+    "description": "Bequem und stilvoll, ideal f\u00fcr jede Gelegenheit.",
+    "images": [
+      "https://example.com/images/product-49-front.jpg",
+      "https://example.com/images/product-49-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Testkommentar f\u00fcr Produkt 49.",
+        "date": "2024-11-22T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 50",
+    "category": "Jacke",
+    "size": "M",
+    "color": "Black",
+    "price": 85.0,
+    "stock": 151,
+    "description": "Langlebig und modern, ein Must-Have f\u00fcr jede Garderobe.",
+    "images": [
+      "https://example.com/images/product-50-front.jpg",
+      "https://example.com/images/product-50-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Testkommentar f\u00fcr Produkt 50.",
+        "date": "2024-11-23T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 51",
+    "category": "Schuhe",
+    "size": "L",
+    "color": "White",
+    "price": 86.5,
+    "stock": 154,
+    "description": "Perfekt f\u00fcr Freizeit und Arbeit, mit klassischem Design.",
+    "images": [
+      "https://example.com/images/product-51-front.jpg",
+      "https://example.com/images/product-51-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Testkommentar f\u00fcr Produkt 51.",
+        "date": "2024-11-24T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 52",
+    "category": "Pullover",
+    "size": "XL",
+    "color": "Green",
+    "price": 88.0,
+    "stock": 157,
+    "description": "Atmungsaktiv und leicht, f\u00fcr den maximalen Komfort.",
+    "images": [
+      "https://example.com/images/product-52-front.jpg",
+      "https://example.com/images/product-52-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Testkommentar f\u00fcr Produkt 52.",
+        "date": "2024-11-25T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 53",
+    "category": "Kleid",
+    "size": "XXL",
+    "color": "Yellow",
+    "price": 89.5,
+    "stock": 160,
+    "description": "Ein elegantes Kleidungsst\u00fcck mit hervorragender Passform.",
+    "images": [
+      "https://example.com/images/product-53-front.jpg",
+      "https://example.com/images/product-53-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Testkommentar f\u00fcr Produkt 53.",
+        "date": "2024-11-26T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 54",
+    "category": "Rock",
+    "size": "XS",
+    "color": "Pink",
+    "price": 91.0,
+    "stock": 163,
+    "description": "F\u00fcr Outdoor-Aktivit\u00e4ten entwickelt, mit robustem Design.",
+    "images": [
+      "https://example.com/images/product-54-front.jpg",
+      "https://example.com/images/product-54-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Testkommentar f\u00fcr Produkt 54.",
+        "date": "2024-11-27T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 55",
+    "category": "Accessoire",
+    "size": "S",
+    "color": "Gray",
+    "price": 92.5,
+    "stock": 166,
+    "description": "Modischer Look, ideal f\u00fcr besondere Anl\u00e4sse.",
+    "images": [
+      "https://example.com/images/product-55-front.jpg",
+      "https://example.com/images/product-55-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Testkommentar f\u00fcr Produkt 55.",
+        "date": "2024-11-28T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 56",
+    "category": "T-Shirt",
+    "size": "M",
+    "color": "Blue",
+    "price": 94.0,
+    "stock": 169,
+    "description": "Hochwertiges Material, perfekt f\u00fcr den Alltag.",
+    "images": [
+      "https://example.com/images/product-56-front.jpg",
+      "https://example.com/images/product-56-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Testkommentar f\u00fcr Produkt 56.",
+        "date": "2024-11-1T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 57",
+    "category": "Hose",
+    "size": "L",
+    "color": "Red",
+    "price": 95.5,
+    "stock": 172,
+    "description": "Bequem und stilvoll, ideal f\u00fcr jede Gelegenheit.",
+    "images": [
+      "https://example.com/images/product-57-front.jpg",
+      "https://example.com/images/product-57-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Testkommentar f\u00fcr Produkt 57.",
+        "date": "2024-11-2T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 58",
+    "category": "Jacke",
+    "size": "XL",
+    "color": "Black",
+    "price": 97.0,
+    "stock": 175,
+    "description": "Langlebig und modern, ein Must-Have f\u00fcr jede Garderobe.",
+    "images": [
+      "https://example.com/images/product-58-front.jpg",
+      "https://example.com/images/product-58-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Testkommentar f\u00fcr Produkt 58.",
+        "date": "2024-11-3T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 59",
+    "category": "Schuhe",
+    "size": "XXL",
+    "color": "White",
+    "price": 98.5,
+    "stock": 178,
+    "description": "Perfekt f\u00fcr Freizeit und Arbeit, mit klassischem Design.",
+    "images": [
+      "https://example.com/images/product-59-front.jpg",
+      "https://example.com/images/product-59-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Testkommentar f\u00fcr Produkt 59.",
+        "date": "2024-11-4T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 60",
+    "category": "Pullover",
+    "size": "XS",
+    "color": "Green",
+    "price": 100.0,
+    "stock": 181,
+    "description": "Atmungsaktiv und leicht, f\u00fcr den maximalen Komfort.",
+    "images": [
+      "https://example.com/images/product-60-front.jpg",
+      "https://example.com/images/product-60-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Testkommentar f\u00fcr Produkt 60.",
+        "date": "2024-11-5T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 61",
+    "category": "Kleid",
+    "size": "S",
+    "color": "Yellow",
+    "price": 101.5,
+    "stock": 184,
+    "description": "Ein elegantes Kleidungsst\u00fcck mit hervorragender Passform.",
+    "images": [
+      "https://example.com/images/product-61-front.jpg",
+      "https://example.com/images/product-61-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Testkommentar f\u00fcr Produkt 61.",
+        "date": "2024-11-6T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 62",
+    "category": "Rock",
+    "size": "M",
+    "color": "Pink",
+    "price": 103.0,
+    "stock": 187,
+    "description": "F\u00fcr Outdoor-Aktivit\u00e4ten entwickelt, mit robustem Design.",
+    "images": [
+      "https://example.com/images/product-62-front.jpg",
+      "https://example.com/images/product-62-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Testkommentar f\u00fcr Produkt 62.",
+        "date": "2024-11-7T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 63",
+    "category": "Accessoire",
+    "size": "L",
+    "color": "Gray",
+    "price": 104.5,
+    "stock": 190,
+    "description": "Modischer Look, ideal f\u00fcr besondere Anl\u00e4sse.",
+    "images": [
+      "https://example.com/images/product-63-front.jpg",
+      "https://example.com/images/product-63-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Testkommentar f\u00fcr Produkt 63.",
+        "date": "2024-11-8T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 64",
+    "category": "T-Shirt",
+    "size": "XL",
+    "color": "Blue",
+    "price": 106.0,
+    "stock": 193,
+    "description": "Hochwertiges Material, perfekt f\u00fcr den Alltag.",
+    "images": [
+      "https://example.com/images/product-64-front.jpg",
+      "https://example.com/images/product-64-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Testkommentar f\u00fcr Produkt 64.",
+        "date": "2024-11-9T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 65",
+    "category": "Hose",
+    "size": "XXL",
+    "color": "Red",
+    "price": 107.5,
+    "stock": 196,
+    "description": "Bequem und stilvoll, ideal f\u00fcr jede Gelegenheit.",
+    "images": [
+      "https://example.com/images/product-65-front.jpg",
+      "https://example.com/images/product-65-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Testkommentar f\u00fcr Produkt 65.",
+        "date": "2024-11-10T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 66",
+    "category": "Jacke",
+    "size": "XS",
+    "color": "Black",
+    "price": 109.0,
+    "stock": 199,
+    "description": "Langlebig und modern, ein Must-Have f\u00fcr jede Garderobe.",
+    "images": [
+      "https://example.com/images/product-66-front.jpg",
+      "https://example.com/images/product-66-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Testkommentar f\u00fcr Produkt 66.",
+        "date": "2024-11-11T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 67",
+    "category": "Schuhe",
+    "size": "S",
+    "color": "White",
+    "price": 110.5,
+    "stock": 2,
+    "description": "Perfekt f\u00fcr Freizeit und Arbeit, mit klassischem Design.",
+    "images": [
+      "https://example.com/images/product-67-front.jpg",
+      "https://example.com/images/product-67-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Testkommentar f\u00fcr Produkt 67.",
+        "date": "2024-11-12T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 68",
+    "category": "Pullover",
+    "size": "M",
+    "color": "Green",
+    "price": 112.0,
+    "stock": 5,
+    "description": "Atmungsaktiv und leicht, f\u00fcr den maximalen Komfort.",
+    "images": [
+      "https://example.com/images/product-68-front.jpg",
+      "https://example.com/images/product-68-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Testkommentar f\u00fcr Produkt 68.",
+        "date": "2024-11-13T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 69",
+    "category": "Kleid",
+    "size": "L",
+    "color": "Yellow",
+    "price": 113.5,
+    "stock": 8,
+    "description": "Ein elegantes Kleidungsst\u00fcck mit hervorragender Passform.",
+    "images": [
+      "https://example.com/images/product-69-front.jpg",
+      "https://example.com/images/product-69-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Testkommentar f\u00fcr Produkt 69.",
+        "date": "2024-11-14T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 70",
+    "category": "Rock",
+    "size": "XL",
+    "color": "Pink",
+    "price": 115.0,
+    "stock": 11,
+    "description": "F\u00fcr Outdoor-Aktivit\u00e4ten entwickelt, mit robustem Design.",
+    "images": [
+      "https://example.com/images/product-70-front.jpg",
+      "https://example.com/images/product-70-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Testkommentar f\u00fcr Produkt 70.",
+        "date": "2024-11-15T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 71",
+    "category": "Accessoire",
+    "size": "XXL",
+    "color": "Gray",
+    "price": 116.5,
+    "stock": 14,
+    "description": "Modischer Look, ideal f\u00fcr besondere Anl\u00e4sse.",
+    "images": [
+      "https://example.com/images/product-71-front.jpg",
+      "https://example.com/images/product-71-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Testkommentar f\u00fcr Produkt 71.",
+        "date": "2024-11-16T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 72",
+    "category": "T-Shirt",
+    "size": "XS",
+    "color": "Blue",
+    "price": 118.0,
+    "stock": 17,
+    "description": "Hochwertiges Material, perfekt f\u00fcr den Alltag.",
+    "images": [
+      "https://example.com/images/product-72-front.jpg",
+      "https://example.com/images/product-72-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Testkommentar f\u00fcr Produkt 72.",
+        "date": "2024-11-17T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 73",
+    "category": "Hose",
+    "size": "S",
+    "color": "Red",
+    "price": 119.5,
+    "stock": 20,
+    "description": "Bequem und stilvoll, ideal f\u00fcr jede Gelegenheit.",
+    "images": [
+      "https://example.com/images/product-73-front.jpg",
+      "https://example.com/images/product-73-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Testkommentar f\u00fcr Produkt 73.",
+        "date": "2024-11-18T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 74",
+    "category": "Jacke",
+    "size": "M",
+    "color": "Black",
+    "price": 121.0,
+    "stock": 23,
+    "description": "Langlebig und modern, ein Must-Have f\u00fcr jede Garderobe.",
+    "images": [
+      "https://example.com/images/product-74-front.jpg",
+      "https://example.com/images/product-74-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Testkommentar f\u00fcr Produkt 74.",
+        "date": "2024-11-19T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 75",
+    "category": "Schuhe",
+    "size": "L",
+    "color": "White",
+    "price": 122.5,
+    "stock": 26,
+    "description": "Perfekt f\u00fcr Freizeit und Arbeit, mit klassischem Design.",
+    "images": [
+      "https://example.com/images/product-75-front.jpg",
+      "https://example.com/images/product-75-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Testkommentar f\u00fcr Produkt 75.",
+        "date": "2024-11-20T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 76",
+    "category": "Pullover",
+    "size": "XL",
+    "color": "Green",
+    "price": 124.0,
+    "stock": 29,
+    "description": "Atmungsaktiv und leicht, f\u00fcr den maximalen Komfort.",
+    "images": [
+      "https://example.com/images/product-76-front.jpg",
+      "https://example.com/images/product-76-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Testkommentar f\u00fcr Produkt 76.",
+        "date": "2024-11-21T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 77",
+    "category": "Kleid",
+    "size": "XXL",
+    "color": "Yellow",
+    "price": 125.5,
+    "stock": 32,
+    "description": "Ein elegantes Kleidungsst\u00fcck mit hervorragender Passform.",
+    "images": [
+      "https://example.com/images/product-77-front.jpg",
+      "https://example.com/images/product-77-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Testkommentar f\u00fcr Produkt 77.",
+        "date": "2024-11-22T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 78",
+    "category": "Rock",
+    "size": "XS",
+    "color": "Pink",
+    "price": 127.0,
+    "stock": 35,
+    "description": "F\u00fcr Outdoor-Aktivit\u00e4ten entwickelt, mit robustem Design.",
+    "images": [
+      "https://example.com/images/product-78-front.jpg",
+      "https://example.com/images/product-78-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Testkommentar f\u00fcr Produkt 78.",
+        "date": "2024-11-23T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 79",
+    "category": "Accessoire",
+    "size": "S",
+    "color": "Gray",
+    "price": 128.5,
+    "stock": 38,
+    "description": "Modischer Look, ideal f\u00fcr besondere Anl\u00e4sse.",
+    "images": [
+      "https://example.com/images/product-79-front.jpg",
+      "https://example.com/images/product-79-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Testkommentar f\u00fcr Produkt 79.",
+        "date": "2024-11-24T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 80",
+    "category": "T-Shirt",
+    "size": "M",
+    "color": "Blue",
+    "price": 130.0,
+    "stock": 41,
+    "description": "Hochwertiges Material, perfekt f\u00fcr den Alltag.",
+    "images": [
+      "https://example.com/images/product-80-front.jpg",
+      "https://example.com/images/product-80-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Testkommentar f\u00fcr Produkt 80.",
+        "date": "2024-11-25T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 81",
+    "category": "Hose",
+    "size": "L",
+    "color": "Red",
+    "price": 131.5,
+    "stock": 44,
+    "description": "Bequem und stilvoll, ideal f\u00fcr jede Gelegenheit.",
+    "images": [
+      "https://example.com/images/product-81-front.jpg",
+      "https://example.com/images/product-81-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Testkommentar f\u00fcr Produkt 81.",
+        "date": "2024-11-26T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 82",
+    "category": "Jacke",
+    "size": "XL",
+    "color": "Black",
+    "price": 133.0,
+    "stock": 47,
+    "description": "Langlebig und modern, ein Must-Have f\u00fcr jede Garderobe.",
+    "images": [
+      "https://example.com/images/product-82-front.jpg",
+      "https://example.com/images/product-82-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Testkommentar f\u00fcr Produkt 82.",
+        "date": "2024-11-27T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 83",
+    "category": "Schuhe",
+    "size": "XXL",
+    "color": "White",
+    "price": 134.5,
+    "stock": 50,
+    "description": "Perfekt f\u00fcr Freizeit und Arbeit, mit klassischem Design.",
+    "images": [
+      "https://example.com/images/product-83-front.jpg",
+      "https://example.com/images/product-83-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Testkommentar f\u00fcr Produkt 83.",
+        "date": "2024-11-28T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 84",
+    "category": "Pullover",
+    "size": "XS",
+    "color": "Green",
+    "price": 136.0,
+    "stock": 53,
+    "description": "Atmungsaktiv und leicht, f\u00fcr den maximalen Komfort.",
+    "images": [
+      "https://example.com/images/product-84-front.jpg",
+      "https://example.com/images/product-84-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Testkommentar f\u00fcr Produkt 84.",
+        "date": "2024-11-1T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 85",
+    "category": "Kleid",
+    "size": "S",
+    "color": "Yellow",
+    "price": 137.5,
+    "stock": 56,
+    "description": "Ein elegantes Kleidungsst\u00fcck mit hervorragender Passform.",
+    "images": [
+      "https://example.com/images/product-85-front.jpg",
+      "https://example.com/images/product-85-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Testkommentar f\u00fcr Produkt 85.",
+        "date": "2024-11-2T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 86",
+    "category": "Rock",
+    "size": "M",
+    "color": "Pink",
+    "price": 139.0,
+    "stock": 59,
+    "description": "F\u00fcr Outdoor-Aktivit\u00e4ten entwickelt, mit robustem Design.",
+    "images": [
+      "https://example.com/images/product-86-front.jpg",
+      "https://example.com/images/product-86-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Testkommentar f\u00fcr Produkt 86.",
+        "date": "2024-11-3T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 87",
+    "category": "Accessoire",
+    "size": "L",
+    "color": "Gray",
+    "price": 140.5,
+    "stock": 62,
+    "description": "Modischer Look, ideal f\u00fcr besondere Anl\u00e4sse.",
+    "images": [
+      "https://example.com/images/product-87-front.jpg",
+      "https://example.com/images/product-87-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Testkommentar f\u00fcr Produkt 87.",
+        "date": "2024-11-4T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 88",
+    "category": "T-Shirt",
+    "size": "XL",
+    "color": "Blue",
+    "price": 142.0,
+    "stock": 65,
+    "description": "Hochwertiges Material, perfekt f\u00fcr den Alltag.",
+    "images": [
+      "https://example.com/images/product-88-front.jpg",
+      "https://example.com/images/product-88-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Testkommentar f\u00fcr Produkt 88.",
+        "date": "2024-11-5T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 89",
+    "category": "Hose",
+    "size": "XXL",
+    "color": "Red",
+    "price": 143.5,
+    "stock": 68,
+    "description": "Bequem und stilvoll, ideal f\u00fcr jede Gelegenheit.",
+    "images": [
+      "https://example.com/images/product-89-front.jpg",
+      "https://example.com/images/product-89-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Testkommentar f\u00fcr Produkt 89.",
+        "date": "2024-11-6T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 90",
+    "category": "Jacke",
+    "size": "XS",
+    "color": "Black",
+    "price": 145.0,
+    "stock": 71,
+    "description": "Langlebig und modern, ein Must-Have f\u00fcr jede Garderobe.",
+    "images": [
+      "https://example.com/images/product-90-front.jpg",
+      "https://example.com/images/product-90-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Testkommentar f\u00fcr Produkt 90.",
+        "date": "2024-11-7T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 91",
+    "category": "Schuhe",
+    "size": "S",
+    "color": "White",
+    "price": 146.5,
+    "stock": 74,
+    "description": "Perfekt f\u00fcr Freizeit und Arbeit, mit klassischem Design.",
+    "images": [
+      "https://example.com/images/product-91-front.jpg",
+      "https://example.com/images/product-91-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Testkommentar f\u00fcr Produkt 91.",
+        "date": "2024-11-8T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 92",
+    "category": "Pullover",
+    "size": "M",
+    "color": "Green",
+    "price": 148.0,
+    "stock": 77,
+    "description": "Atmungsaktiv und leicht, f\u00fcr den maximalen Komfort.",
+    "images": [
+      "https://example.com/images/product-92-front.jpg",
+      "https://example.com/images/product-92-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Testkommentar f\u00fcr Produkt 92.",
+        "date": "2024-11-9T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 93",
+    "category": "Kleid",
+    "size": "L",
+    "color": "Yellow",
+    "price": 149.5,
+    "stock": 80,
+    "description": "Ein elegantes Kleidungsst\u00fcck mit hervorragender Passform.",
+    "images": [
+      "https://example.com/images/product-93-front.jpg",
+      "https://example.com/images/product-93-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Testkommentar f\u00fcr Produkt 93.",
+        "date": "2024-11-10T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 94",
+    "category": "Rock",
+    "size": "XL",
+    "color": "Pink",
+    "price": 151.0,
+    "stock": 83,
+    "description": "F\u00fcr Outdoor-Aktivit\u00e4ten entwickelt, mit robustem Design.",
+    "images": [
+      "https://example.com/images/product-94-front.jpg",
+      "https://example.com/images/product-94-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Testkommentar f\u00fcr Produkt 94.",
+        "date": "2024-11-11T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 95",
+    "category": "Accessoire",
+    "size": "XXL",
+    "color": "Gray",
+    "price": 152.5,
+    "stock": 86,
+    "description": "Modischer Look, ideal f\u00fcr besondere Anl\u00e4sse.",
+    "images": [
+      "https://example.com/images/product-95-front.jpg",
+      "https://example.com/images/product-95-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Testkommentar f\u00fcr Produkt 95.",
+        "date": "2024-11-12T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 96",
+    "category": "T-Shirt",
+    "size": "XS",
+    "color": "Blue",
+    "price": 154.0,
+    "stock": 89,
+    "description": "Hochwertiges Material, perfekt f\u00fcr den Alltag.",
+    "images": [
+      "https://example.com/images/product-96-front.jpg",
+      "https://example.com/images/product-96-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Testkommentar f\u00fcr Produkt 96.",
+        "date": "2024-11-13T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 97",
+    "category": "Hose",
+    "size": "S",
+    "color": "Red",
+    "price": 155.5,
+    "stock": 92,
+    "description": "Bequem und stilvoll, ideal f\u00fcr jede Gelegenheit.",
+    "images": [
+      "https://example.com/images/product-97-front.jpg",
+      "https://example.com/images/product-97-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Testkommentar f\u00fcr Produkt 97.",
+        "date": "2024-11-14T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 98",
+    "category": "Jacke",
+    "size": "M",
+    "color": "Black",
+    "price": 157.0,
+    "stock": 95,
+    "description": "Langlebig und modern, ein Must-Have f\u00fcr jede Garderobe.",
+    "images": [
+      "https://example.com/images/product-98-front.jpg",
+      "https://example.com/images/product-98-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Testkommentar f\u00fcr Produkt 98.",
+        "date": "2024-11-15T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 99",
+    "category": "Schuhe",
+    "size": "L",
+    "color": "White",
+    "price": 158.5,
+    "stock": 98,
+    "description": "Perfekt f\u00fcr Freizeit und Arbeit, mit klassischem Design.",
+    "images": [
+      "https://example.com/images/product-99-front.jpg",
+      "https://example.com/images/product-99-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Testkommentar f\u00fcr Produkt 99.",
+        "date": "2024-11-16T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Produkt 100",
+    "category": "Pullover",
+    "size": "XL",
+    "color": "Green",
+    "price": 160.0,
+    "stock": 101,
+    "description": "Atmungsaktiv und leicht, f\u00fcr den maximalen Komfort.",
+    "images": [
+      "https://example.com/images/product-100-front.jpg",
+      "https://example.com/images/product-100-back.jpg"
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Testkommentar f\u00fcr Produkt 100.",
+        "date": "2024-11-17T10:00:00.000Z"
+      }
+    ]
+  }
+]
